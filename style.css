@@ -3,10 +3,26 @@
     width: 50%;
     padding: 10px;
     text-align: center;
+    color: black;
 }
 .text {
     font-family: 'Dosis', sans-serif;
     font-weight: bold;
     font-size: x-large;
 
+}
+
+.block {
+    width: 100%;
+    text-align: center;
+}
+
+.social {
+    display: inline-block;
+    width: 80px;
+}
+
+.social a {
+    font-size: 8px;
+    color: black;
 }
