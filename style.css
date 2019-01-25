@@ -1,0 +1,12 @@
+.master{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+.text {
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+
+}
